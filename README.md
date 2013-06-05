@@ -42,7 +42,7 @@ public function exclude_meta_filters() {
 ?> 
 ```
 
-To allow these other fields just remove it from the array.
+To allow these other fields just remove it from the array. You may also add fields that are not listed here.
 
 #### In the Near Future
 The plan is to get Post Pagination in the Wordpress SVN repo.
